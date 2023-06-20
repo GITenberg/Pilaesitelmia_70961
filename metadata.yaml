@@ -1,0 +1,24 @@
+_repo: Pilaesitelmia_70961
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lehmus, Heikki
+    gutenberg_agent_id: '56010'
+    url: http://www.gutenberg.org/2009/agents/56010
+description: ''
+gutenberg_issued: '2023-06-12'
+identifiers:
+  gutenberg: '70961'
+language: fi
+pgterms:marc905: 20160221132457lehmus
+pgterms:marc906: '1910'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bArvi A. Karisto, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pilaesitelmiä
+url: http://www.gutenberg.org/ebooks/70961
